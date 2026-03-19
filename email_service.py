@@ -3,7 +3,7 @@ from email.mime.text import MIMEText
 
 SENDER_EMAIL = "poojithasadhanala@gmail.com"
 APP_PASSWORD = "pgkc bxry stil nkni" # Use an app password for Gmail
-RECEIVER_EMAIL = "shankar.kuchibhotla@gmail.com"
+RECEIVER_EMAIL = "246n1a05h3@sriniet.edu.in"
 
 def send_email_alert(medicine_name):
     subject = "⚠️ Missed Medicine Alert"
