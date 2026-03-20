@@ -7,8 +7,8 @@ APP_PASSWORD = "pgkc bxry stil nkni"  # ⚠️ CHANGE THIS AFTER TESTING
 RECEIVER_EMAILS = [
     "246n1a05h3@sriniet.edu.in",
     "poojithasadhanala@gmail.com",
-    "example3@gmail.com",
-    "example4@gmail.com" #you can add as many emails as you want in this list 
+    "mahithagubbala117@gmail.com"
+     #you can add as many emails as you want in this list 
 ]
 
 def send_email_alert(medicine_name):
